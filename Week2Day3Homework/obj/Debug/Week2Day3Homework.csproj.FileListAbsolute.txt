@@ -1,0 +1,7 @@
+C:\Users\Jake Hamilton\Engineering45\Week2\day3\Week2Day3Homework\Week2Day3Homework\bin\Debug\Week2Day3Homework.exe.config
+C:\Users\Jake Hamilton\Engineering45\Week2\day3\Week2Day3Homework\Week2Day3Homework\bin\Debug\Week2Day3Homework.exe
+C:\Users\Jake Hamilton\Engineering45\Week2\day3\Week2Day3Homework\Week2Day3Homework\bin\Debug\Week2Day3Homework.pdb
+C:\Users\Jake Hamilton\Engineering45\Week2\day3\Week2Day3Homework\Week2Day3Homework\obj\Debug\Week2Day3Homework.csprojAssemblyReference.cache
+C:\Users\Jake Hamilton\Engineering45\Week2\day3\Week2Day3Homework\Week2Day3Homework\obj\Debug\Week2Day3Homework.csproj.CoreCompileInputs.cache
+C:\Users\Jake Hamilton\Engineering45\Week2\day3\Week2Day3Homework\Week2Day3Homework\obj\Debug\Week2Day3Homework.exe
+C:\Users\Jake Hamilton\Engineering45\Week2\day3\Week2Day3Homework\Week2Day3Homework\obj\Debug\Week2Day3Homework.pdb
